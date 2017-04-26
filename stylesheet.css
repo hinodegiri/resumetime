@@ -1,0 +1,59 @@
+#botbox {
+  background-color: #c08081;
+  width: 400px;
+  opacity: 0.7;
+  border: 2px solid white;
+  margin: 0 auto;
+}
+
+.topbox {
+  background-color: #c08081;
+  opacity: 0.7;
+  width: 200px;
+  border: 2px solid white;
+  margin: 25px auto;
+}
+
+#botbox2 {
+  background-color: #8E4585;
+  width: 400px;
+  opacity: 0.7;
+  border: 2px solid white;
+  margin: 0 auto;
+}
+
+.topbox2 {
+  background-color: #8E4585;
+  width: 200px;
+  opacity: 0.7;
+  border: 2px solid white;
+  margin: 25px auto;
+} 
+
+ul {
+  font-size: 12px;
+  color: white;
+  font-family: serif;
+}
+
+p {
+  font-size: 16px;
+  color: white;
+  font-family: serif;
+}
+
+body {
+  background-color: #5F021F;
+  background-image: url("http://pre13.deviantart.net/50f3/th/pre/i/2017/115/1/0/coding_time_by_asiananity-db73dwr.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.basic {
+  background-color: #A26BA2;
+  width: 300px;
+  opacity: 0.7;
+  border: 2px solid white;
+  margin: 25px auto;
+}
